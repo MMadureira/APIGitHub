@@ -2,6 +2,6 @@
 
 * Projeto: API para pesquisa de projetos no GitHub
 
-* Linguagem: C
+* Linguagens: HTML, JavaScript
 
 __Created by: Matheus Madureira__

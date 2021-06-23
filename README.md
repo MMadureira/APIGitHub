@@ -4,4 +4,4 @@
 
 * Linguagens: HTML, JavaScript
 
-_Created by: Matheus Madureira_
+✔️ _Created by: Matheus Madureira_
